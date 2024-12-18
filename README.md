@@ -1,150 +1,66 @@
-# Slide 1
+# iVision Customer Service Report
+## The Hero Vired project
 
-Ankush Koul
-​iVision CustomerService  Report
-The Hero Vired project
-![Slide 1 Image](./slide_1_image.png)
+_**Project**_: Analysis of Customer Service Data using Microsoft Excel
 
----
+![image](https://github.com/user-attachments/assets/a4191a1a-74d3-4a20-815d-777578731ecc)
 
-# Slide 2
+👉 **iVision** is a well-known analytics firm. iVision performs analytics on the data shared by their clients. Recently, iVision collaborated with **Nile**, an E-commerce company. Nile intends to improve their customer service, but before doing so, Nile wants to get some insights on their customer service request data. To help Nile make better business decisions and improve their services, iVision is engaged to provide Nile access to the analytics dashboard and report.
 
-Customer Sentiment Analysis
-2
-22%
-Expressed Positive Sentiments
-27%
-Expressed Neutral Sentiments
-52%
-Expressed Negative Sentiments
-![Slide 2 Image](./slide_2_image.png)
-![Slide 2 Image](./slide_2_image.png)
-![Slide 2 Image](./slide_2_image.png)
+👉 Nile has shared its customer service data with iVision. As an employee of iVision, you are responsible for creating this analytics report.
 
 ---
 
-# Slide 3
+### _**Business Objective:**_
+The analysis aims to leverage data-driven approaches to optimize customer service processes, enhance customer experience, and drive overall business growth. By examining historical customer service data, the project seeks to identify patterns, trends, and opportunities for improvement, ultimately leading to enhanced customer loyalty and increased operational efficiency.
 
-Root Cause Analysis
-Top three reasons for customer complaints are:
-
-Billing Questions (23,462)
-
-Payment issues (4,749)
-
-Service outages (4,730)
-
-3
-
----
-
-# Slide 4
-
-Service Response Time Analysis
-The average response time for customer queries is
-
-25% Below SLA
-
-13% Above SLA
-
-63% of customer queries are resolved within SLA
-
-
-
+### **Project Goals**: 
+- 👉 **Customer Sentiment Analysis**: Perform sentiment analysis on customer interactions. Identify positive, negative, and neutral sentiments expressed by customers to understand overall satisfaction levels.
+  
+- 👉 **Root Cause Analysis**: Investigate common customer complaints. Pinpoint recurring problems to address them proactively and prevent future escalations.
+  
+- 👉 **Service Response Time Analysis**: Analyze response times for customer queries and support requests to assess the efficiency of the customer service team.
+  
+- 👉 **Customer Segmentation**: Segment customers based on their demographics, behavior, and preferences. Understand different customer segments' needs and pain points to tailor services and communications accordingly.
+  
+- 👉 **Trends and Patterns Identification**: Identify patterns and trends in customer service data to uncover opportunities for process improvements and innovative service offerings.
 
 ---
 
-# Slide 5
-
-Customer Segmentation
-The top three states with the most customer complaints are:
-
-California (3,631)
-
-Texas (3,572)
-
-Florida (2,834)
+### **Customer Sentiment Analysis**
+![image](https://github.com/user-attachments/assets/a10816dd-4979-4350-a574-2c5d0da2a605)
 
 ---
 
-# Slide 6
-
-Customer Segmentation
-The top three Channels of communication for customer complaints are:
-
-Call center (10,639)
-
-Chatbot (8,256)
-
-Email (7,470)
-
+### **Root Cause Analysis**
+![image](https://github.com/user-attachments/assets/04a3dead-dfdd-4efa-8b24-e76c27dc554a)
 
 ---
 
-# Slide 7
-
-trends and Patterns Identification
-There is an increasing trend in the number of customer complaints about billing issues
-
-There is a decreasing trend in the average response time for customer queries
-
+### **Service Response Time Analysis**
+![image](https://github.com/user-attachments/assets/8b60f07a-dacf-496e-bdd0-213ddbbfbb64)
 
 ---
 
-# Slide 8
-
-Actionable Insights and Recommendations
-Listen Up!
-Customers are unhappy with billing, payments, and outages. Let's understand their specific concerns.
-
-Some love our service! Let's build on those strengths.
-
-
-Take Action!
-Billing: Clear statements, flexible options.
-Payments: Streamlined processes, no errors, clear communication.
-Outages: Strong infrastructure, and proactive updates.
-Response Time: Faster help, consider AI chatbots, train agents.
-State-Specific: Understand local needs, and targeted solutions.
-High-Volume Channels: Improve self-service, better user experience, multi-channel support.
+### **Customer Segmentation**
+![image](https://github.com/user-attachments/assets/f9666659-937d-4970-af8a-ef6206af48f6)
+  
+![image](https://github.com/user-attachments/assets/a93595c9-93f5-44b8-9379-18b182c7c924)
 
 ---
 
-# Slide 9
-
-conclusion
-Our in-depth analysis revealed key areas requiring attention, from billing transparency to proactive outage communication.
-Excellent customer service is vital for business success, and the iVision Customer Service report provides valuable insights to achieve that goal.
-By addressing the identified issues and implementing the recommended actions, we can significantly improve customer satisfaction and build stronger relationships
-
-
-
+### **Trends and Patterns Identification**
+![image](https://github.com/user-attachments/assets/7c96c137-41a4-4f23-ac19-17dfd7d226c4)
 
 ---
 
-# Slide 10
+### **Actionable Insights and Recommendations**
 
-
-Always Listen,
-
-
-
-Always Improve!
-Always Listen
-Always Improve!
-Always Listen, Always Improve!
+![image](https://github.com/user-attachments/assets/67989517-2f0a-4343-b699-026cb760ed8b)
 
 ---
+### **Conclusion**
 
-# Slide 11
-
-Thank
-thank
-Thank
-You
-You
-You
-you
-tHANKyou
-
----
+👉 Our in-depth analysis revealed key areas requiring attention, from billing transparency to proactive outage communication.  
+👉 Excellent customer service is vital for business success, and the **iVision Customer Service report** provides valuable insights to achieve that goal.  
+👉 By addressing the identified issues and implementing the recommended actions, we can significantly improve customer satisfaction and build stronger relationships.
